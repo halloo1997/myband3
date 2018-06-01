@@ -4,3 +4,5 @@
 <li>{$mail}</li>
 {/foreach}
 </p>
+
+<a href="index.php?page=contact">Contact</a>
